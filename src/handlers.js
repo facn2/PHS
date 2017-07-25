@@ -23,6 +23,7 @@ const handlePublic = (res, url) => {
 		ico: 'image/x-icon',
 		img: 'image/jpg'
 	}
+
 const filePath = path.join(__dirname, '..', url);
 fs.readFile(filePath, (error, file) => {
 	if(error) {
@@ -36,7 +37,23 @@ fs.readFile(filePath, (error, file) => {
 })
 }
 
+const handleJson = (res) => {
+	const filePath = path.join(__dirname, '..', 'json', 'worldCup2014.json')
+	fs.readFile(filePath, (error, data) => {
+		if (error) {
+			res.writeHead (500 , 'Content-Type: text/html')
+			res.end ('<h1> sorry, the page doesnt response </h1>')
+		} else {
+			res.writeHead (200 , 'Content-Type: application/json')
+			obj = JSON.parse(data);
+			console.log(obj)
+		}
+	});
+}
+
+
 module.exports = {
 	handleHomeRoute,
-	handlePublic
+	handlePublic,
+	handleJson
 	}

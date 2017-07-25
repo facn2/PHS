@@ -5,5 +5,5 @@ inputSearch.addEventListener('submit', searchJSON)
 function searchJSON(event){
    event.preventDefault();
    var initialSearch = event.target[0].value;
-   
+   console.log(initialSearch);
 }

@@ -8,7 +8,11 @@ const router = (req, res) => {
 
 	} else if(url.indexOf('/public') === 0) {
 			handlers.handlePublic(res, url);
-	} else {
+	}		
+		else if (url === '/worldCup2014'){
+			handlers.handleJson(res);
+	}
+		else {
 		res.writeHead(404, 'Content-Type: text/html')
 		res.end('<h1>404 file not found</h1>');
 	}
