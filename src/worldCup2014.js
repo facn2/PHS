@@ -1,4 +1,4 @@
-[
+module.exports = [
   {
     "Team": "Brazil",
     "Number": "1",
