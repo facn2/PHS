@@ -1,10 +1,11 @@
 // prewritten
+const itemsList = document.querySelector('.itemsList');
 
 function addListener(selector, eventName, callback) {
   document.querySelector(selector).addEventListener(eventName, callback)
 }
 
-function fetchData(url, callback){
+function fetchData(url, callback) {
   var xhr = new XMLHttpRequest();
 
   xhr.addEventListener('load', function() {
@@ -14,19 +15,25 @@ function fetchData(url, callback){
     }
   });
 
-  xhr.open('GET', url);
+  xhr.open('Post', url);
   xhr.send();
 }
 
 // specific
 
-addListener('.inputSearchForm', 'submit', function(event){
-  event.preventDefault();
-	// var initialSearch = event.target[0].value;
-	var worldCup2014 = 'http://localhost:3000/worldCup2014notathing';
+addListener('.inputSearchForm', 'keyup', function(event) {
+  var initialSearch = event.target.value;
+  console.log(initialSearch);
+  var url = `search=${initialSearch}`;
 
-	fetchData(worldCup2014, function(response) {
-		console.log(response);
-    
-	});
+  fetchData(url, function(response) {
+    console.log(response)
+    itemsList.innerHTML = response.map((itemOfResponse) => {
+      return `
+    <li>
+      ${itemOfResponse}
+    </li>
+    `
+    }).join('');
+  });
 });
