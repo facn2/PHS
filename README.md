@@ -18,3 +18,12 @@ We decided to put our efforts on the back-end and after that on the front-end.
 * Styling the website.
 * Establishing Heroku.
 
+### RUNNING INSTRUCTIONS :
+* clone the repo : ```        ``` 
+
+
+* install the node.js dependecies:
+```javascript 
+run npm install 
+```
+`
