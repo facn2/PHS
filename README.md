@@ -11,7 +11,7 @@ We decided to put our efforts on the back-end and after that on the front-end.
 * Working as a group - explaining to each other , asking and giving solutions , ideas and support.
 * To understand Every line in the code.
 * Referendum all the team members for everything.
-* Creating the back-end.
+* Creating the back-end server.
 
 ### STRETCH GOALS :
 * Adding tests.
