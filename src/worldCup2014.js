@@ -3,7 +3,7 @@ module.exports = [
     "Team": "Brazil",
     "Number": "1",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Botafogo de Futebol e Regatas",
     "ClubCountry": "BRA",
     "DateOfBirth": "1983-1-2",
@@ -113,7 +113,7 @@ module.exports = [
     "Team": "Brazil",
     "Number": "12",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Toronto FC",
     "ClubCountry": "CAN",
     "DateOfBirth": "1979-9-3",
@@ -203,7 +203,7 @@ module.exports = [
     "Team": "Brazil",
     "Number": "21",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "AtlÃ©tico Minei",
     "ClubCountry": "BRA",
     "DateOfBirth": "1987-3-20",
@@ -233,7 +233,7 @@ module.exports = [
     "Team": "Cameroon",
     "Number": "1",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Coton Sport FC de Garoua",
     "ClubCountry": "CMR",
     "DateOfBirth": "1992-4-14",
@@ -243,7 +243,7 @@ module.exports = [
     "Team": "Cameroon",
     "Number": "2",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Queens Park Rangers F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1984-3-24",
@@ -263,7 +263,7 @@ module.exports = [
     "Team": "Cameroon",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Coton Sport FC de Garoua",
     "ClubCountry": "CMR",
     "DateOfBirth": "1992-8-28",
@@ -293,7 +293,7 @@ module.exports = [
     "Team": "Cameroon",
     "Number": "7",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Girondins de Bordeaux",
     "ClubCountry": "FRA",
     "DateOfBirth": "1985-11-28",
@@ -363,7 +363,7 @@ module.exports = [
     "Team": "Cameroon",
     "Number": "14",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Galatasaray S.K. (football team)",
     "ClubCountry": "TUR",
     "DateOfBirth": "1985-6-20",
@@ -373,7 +373,7 @@ module.exports = [
     "Team": "Cameroon",
     "Number": "15",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "FenerbahÃ§e S.K. (football)",
     "ClubCountry": "TUR",
     "DateOfBirth": "1982-1-20",
@@ -393,7 +393,7 @@ module.exports = [
     "Team": "Cameroon",
     "Number": "17",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Sevilla FC",
     "ClubCountry": "ESP",
     "DateOfBirth": "1986-5-20",
@@ -433,7 +433,7 @@ module.exports = [
     "Team": "Cameroon",
     "Number": "21",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Schalke 04",
     "ClubCountry": "GER",
     "DateOfBirth": "1991-8-8",
@@ -473,7 +473,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "2",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Genoa C.F.C.",
     "ClubCountry": "ITA",
     "DateOfBirth": "1992-1-10",
@@ -483,7 +483,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "3",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Panathinaikos F.C.",
     "ClubCountry": "GRE",
     "DateOfBirth": "1981-12-2",
@@ -493,7 +493,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "4",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "VfL Wolfsbu",
     "ClubCountry": "GER",
     "DateOfBirth": "1989-2-2",
@@ -503,7 +503,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "5",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FC Lokomotiv Moscow",
     "ClubCountry": "RUS",
     "DateOfBirth": "1986-2-5",
@@ -523,7 +523,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "7",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Sevilla FC",
     "ClubCountry": "ESP",
     "DateOfBirth": "1988-3-10",
@@ -533,7 +533,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "8",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Dynamo Kyiv",
     "ClubCountry": "UKR",
     "DateOfBirth": "1983-12-20",
@@ -543,7 +543,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "9",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Hull City A.F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1985-8-27",
@@ -553,7 +553,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "10",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Real Madrid C.F.",
     "ClubCountry": "ESP",
     "DateOfBirth": "1985-9-9",
@@ -593,7 +593,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "14",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "GNK Dinamo Zagreb",
     "ClubCountry": "CRO",
     "DateOfBirth": "1992-10-16",
@@ -603,7 +603,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "15",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "HNK Rijeka",
     "ClubCountry": "CRO",
     "DateOfBirth": "1993-4-30",
@@ -613,7 +613,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "16",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "ACF Fiorentina",
     "ClubCountry": "ITA",
     "DateOfBirth": "1993-9-21",
@@ -623,7 +623,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "17",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "FC Bayern Munich",
     "ClubCountry": "GER",
     "DateOfBirth": "1986-5-21",
@@ -633,7 +633,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "18",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "VfL Wolfsbu",
     "ClubCountry": "GER",
     "DateOfBirth": "1979-9-14",
@@ -653,7 +653,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "20",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Inter Milan",
     "ClubCountry": "ITA",
     "DateOfBirth": "1994-5-6",
@@ -683,7 +683,7 @@ module.exports = [
     "Team": "Croatia",
     "Number": "23",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "AS Monaco FC",
     "ClubCountry": "FRA",
     "DateOfBirth": "1984-10-27",
@@ -693,7 +693,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "1",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Cruz Az",
     "ClubCountry": "MEX",
     "DateOfBirth": "1981-1-26",
@@ -703,7 +703,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "2",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Club AmÃ©rica",
     "ClubCountry": "MEX",
     "DateOfBirth": "1981-10-20",
@@ -723,7 +723,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Club LeÃ³n",
     "ClubCountry": "MEX",
     "DateOfBirth": "1979-2-13",
@@ -743,7 +743,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "6",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "F.C. Porto",
     "ClubCountry": "POR",
     "DateOfBirth": "1990-4-19",
@@ -763,7 +763,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "8",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Cruz Az",
     "ClubCountry": "MEX",
     "DateOfBirth": "1989-7-21",
@@ -773,7 +773,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "9",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Club AmÃ©rica",
     "ClubCountry": "MEX",
     "DateOfBirth": "1991-5-5",
@@ -823,7 +823,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "14",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Manchester United F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1988-6-1",
@@ -833,7 +833,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "15",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "RCD Espanyol",
     "ClubCountry": "ESP",
     "DateOfBirth": "1988-1-17",
@@ -853,7 +853,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "17",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Deportivo Toluca F.C.",
     "ClubCountry": "MEX",
     "DateOfBirth": "1990-8-28",
@@ -863,7 +863,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "18",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Bayer 04 Leverkusen",
     "ClubCountry": "GER",
     "DateOfBirth": "1986-9-28",
@@ -893,7 +893,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "21",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Club LeÃ³n",
     "ClubCountry": "MEX",
     "DateOfBirth": "1990-3-29",
@@ -913,7 +913,7 @@ module.exports = [
     "Team": "Mexico",
     "Number": "23",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Club LeÃ³n",
     "ClubCountry": "MEX",
     "DateOfBirth": "1988-3-14",
@@ -933,7 +933,7 @@ module.exports = [
     "Team": "Australia",
     "Number": "2",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Brisbane Roar FC",
     "ClubCountry": "AUS",
     "DateOfBirth": "1987-9-10",
@@ -973,7 +973,7 @@ module.exports = [
     "Team": "Australia",
     "Number": "6",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Western Sydney Wanderers FC",
     "ClubCountry": "AUS",
     "DateOfBirth": "1988-6-27",
@@ -1043,7 +1043,7 @@ module.exports = [
     "Team": "Australia",
     "Number": "13",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Luzern",
     "ClubCountry": "SUI",
     "DateOfBirth": "1989-1-8",
@@ -1093,7 +1093,7 @@ module.exports = [
     "Team": "Australia",
     "Number": "18",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Adelaide United FC",
     "ClubCountry": "AUS",
     "DateOfBirth": "1981-6-12",
@@ -1113,7 +1113,7 @@ module.exports = [
     "Team": "Australia",
     "Number": "20",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Sion",
     "ClubCountry": "SWI",
     "DateOfBirth": "1987-4-8",
@@ -1213,7 +1213,7 @@ module.exports = [
     "Team": "Chile",
     "Number": "7",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "FC Barcelona",
     "ClubCountry": "ESP",
     "DateOfBirth": "1988-12-19",
@@ -1243,7 +1243,7 @@ module.exports = [
     "Team": "Chile",
     "Number": "10",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Sociedade Esportiva Palmeiras",
     "ClubCountry": "BRA",
     "DateOfBirth": "1983-10-3",
@@ -1273,7 +1273,7 @@ module.exports = [
     "Team": "Chile",
     "Number": "13",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Club Universidad de Chile",
     "ClubCountry": "CHI",
     "DateOfBirth": "1983-6-3",
@@ -1283,7 +1283,7 @@ module.exports = [
     "Team": "Chile",
     "Number": "14",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Celta de Vigo",
     "ClubCountry": "ESP",
     "DateOfBirth": "1986-1-27",
@@ -1303,7 +1303,7 @@ module.exports = [
     "Team": "Chile",
     "Number": "16",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Twente",
     "ClubCountry": "NED",
     "DateOfBirth": "1990-10-8",
@@ -1333,7 +1333,7 @@ module.exports = [
     "Team": "Chile",
     "Number": "19",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Colo-Co",
     "ClubCountry": "CHI",
     "DateOfBirth": "1985-2-22",
@@ -1343,7 +1343,7 @@ module.exports = [
     "Team": "Chile",
     "Number": "20",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Sport Club Internacional",
     "ClubCountry": "BRA",
     "DateOfBirth": "1989-4-17",
@@ -1353,7 +1353,7 @@ module.exports = [
     "Team": "Chile",
     "Number": "21",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Basel",
     "ClubCountry": "SWI",
     "DateOfBirth": "1986-12-30",
@@ -1433,7 +1433,7 @@ module.exports = [
     "Team": "Netherlands",
     "Number": "6",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Swansea City A.F.C.",
     "ClubCountry": "WAL",
     "DateOfBirth": "1987-9-13",
@@ -1503,7 +1503,7 @@ module.exports = [
     "Team": "Netherlands",
     "Number": "13",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "AFC Ajax",
     "ClubCountry": "NED",
     "DateOfBirth": "1992-1-15",
@@ -1633,7 +1633,7 @@ module.exports = [
     "Team": "Spain",
     "Number": "3",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FC Barcelona",
     "ClubCountry": "ESP",
     "DateOfBirth": "1987-2-2",
@@ -1643,7 +1643,7 @@ module.exports = [
     "Team": "Spain",
     "Number": "4",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Bayern Munich",
     "ClubCountry": "GER",
     "DateOfBirth": "1988-9-2",
@@ -1663,7 +1663,7 @@ module.exports = [
     "Team": "Spain",
     "Number": "6",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Barcelona",
     "ClubCountry": "ESP",
     "DateOfBirth": "1984-5-11",
@@ -1703,7 +1703,7 @@ module.exports = [
     "Team": "Spain",
     "Number": "10",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Barcelona",
     "ClubCountry": "ESP",
     "DateOfBirth": "1987-5-4",
@@ -1713,7 +1713,7 @@ module.exports = [
     "Team": "Spain",
     "Number": "11",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "FC Barcelona",
     "ClubCountry": "ESP",
     "DateOfBirth": "1987-7-28",
@@ -1823,7 +1823,7 @@ module.exports = [
     "Team": "Spain",
     "Number": "22",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Chelsea F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1989-8-28",
@@ -1853,7 +1853,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "2",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "A.C. Milan",
     "ClubCountry": "ITA",
     "DateOfBirth": "1986-9-30",
@@ -1883,7 +1883,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "5",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Monarcas Morelia",
     "ClubCountry": "MEX",
     "DateOfBirth": "1981-4-18",
@@ -1893,7 +1893,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "6",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Elche CF",
     "ClubCountry": "ESP",
     "DateOfBirth": "1986-2-6",
@@ -1923,7 +1923,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "9",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Club AtlÃ©tico River Plate",
     "ClubCountry": "ARG",
     "DateOfBirth": "1985-5-28",
@@ -1933,7 +1933,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "10",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "AS Monaco FC",
     "ClubCountry": "FRA",
     "DateOfBirth": "1991-7-12",
@@ -1963,7 +1963,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "13",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Inter Milan",
     "ClubCountry": "ITA",
     "DateOfBirth": "1986-6-30",
@@ -1973,7 +1973,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "14",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Cagliari Calcio",
     "ClubCountry": "ITA",
     "DateOfBirth": "1990-5-19",
@@ -1983,7 +1983,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "15",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "AtlÃ©tico Nacion",
     "ClubCountry": "COL",
     "DateOfBirth": "1988-9-7",
@@ -1993,7 +1993,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "16",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Club AtlÃ©tico River Plate",
     "ClubCountry": "ARG",
     "DateOfBirth": "1993-2-28",
@@ -2013,7 +2013,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "18",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "S.S.C. Napoli",
     "ClubCountry": "ITA",
     "DateOfBirth": "1985-12-14",
@@ -2023,7 +2023,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "19",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Hertha B",
     "ClubCountry": "GER",
     "DateOfBirth": "1986-1-22",
@@ -2043,7 +2043,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "21",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "F.C. Porto",
     "ClubCountry": "POR",
     "DateOfBirth": "1986-10-3",
@@ -2053,7 +2053,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "22",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Deportivo Ca",
     "ClubCountry": "COL",
     "DateOfBirth": "1971-6-21",
@@ -2063,7 +2063,7 @@ module.exports = [
     "Team": "Colombia",
     "Number": "23",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "San Lorenzo de Almagro",
     "ClubCountry": "ARG",
     "DateOfBirth": "1985-5-22",
@@ -2263,7 +2263,7 @@ module.exports = [
     "Team": "Greece",
     "Number": "20",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Olympiacos F.C.",
     "ClubCountry": "GRE",
     "DateOfBirth": "1984-6-27",
@@ -2333,7 +2333,7 @@ module.exports = [
     "Team": "Ivory Coast",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Liverpool F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1981-3-19",
@@ -2383,7 +2383,7 @@ module.exports = [
     "Team": "Ivory Coast",
     "Number": "9",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Newcastle United F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1986-6-21",
@@ -2433,7 +2433,7 @@ module.exports = [
     "Team": "Ivory Coast",
     "Number": "14",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "AS Saint-Ã‰tienne",
     "ClubCountry": "FRA",
     "DateOfBirth": "1992-8-28",
@@ -2483,7 +2483,7 @@ module.exports = [
     "Team": "Ivory Coast",
     "Number": "19",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Manchester City F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1983-5-13",
@@ -2523,7 +2523,7 @@ module.exports = [
     "Team": "Ivory Coast",
     "Number": "23",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "StabÃ¦k Fotball",
     "ClubCountry": "NOR",
     "DateOfBirth": "1993-6-5",
@@ -2553,7 +2553,7 @@ module.exports = [
     "Team": "Japan",
     "Number": "3",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Columbus Cr",
     "ClubCountry": "USA",
     "DateOfBirth": "1988-2-8",
@@ -2563,7 +2563,7 @@ module.exports = [
     "Team": "Japan",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Deportivo Saprissa",
     "ClubCountry": "CRC",
     "DateOfBirth": "1982-7-16",
@@ -2583,7 +2583,7 @@ module.exports = [
     "Team": "Japan",
     "Number": "6",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Club Brugge K.V.",
     "ClubCountry": "BEL",
     "DateOfBirth": "1989-6-3",
@@ -2593,7 +2593,7 @@ module.exports = [
     "Team": "Japan",
     "Number": "7",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "F.C. Copenhagen",
     "ClubCountry": "DEN",
     "DateOfBirth": "1984-5-17",
@@ -2673,7 +2673,7 @@ module.exports = [
     "Team": "Japan",
     "Number": "15",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "1. FSV Mainz 05",
     "ClubCountry": "GER",
     "DateOfBirth": "1983-9-12",
@@ -2733,7 +2733,7 @@ module.exports = [
     "Team": "Japan",
     "Number": "21",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "FC Kuban Krasnodar",
     "ClubCountry": "RUS",
     "DateOfBirth": "1990-3-5",
@@ -2743,7 +2743,7 @@ module.exports = [
     "Team": "Japan",
     "Number": "22",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "C.S. Herediano",
     "ClubCountry": "CRC",
     "DateOfBirth": "1987-2-14",
@@ -2783,7 +2783,7 @@ module.exports = [
     "Team": "Costa Rica",
     "Number": "3",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Columbus Cr",
     "ClubCountry": "USA",
     "DateOfBirth": "1988-2-8",
@@ -2793,7 +2793,7 @@ module.exports = [
     "Team": "Costa Rica",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Deportivo Saprissa",
     "ClubCountry": "CRC",
     "DateOfBirth": "1982-7-16",
@@ -2813,7 +2813,7 @@ module.exports = [
     "Team": "Costa Rica",
     "Number": "6",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Club Brugge K.V.",
     "ClubCountry": "BEL",
     "DateOfBirth": "1989-6-3",
@@ -2823,7 +2823,7 @@ module.exports = [
     "Team": "Costa Rica",
     "Number": "7",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "F.C. Copenhagen",
     "ClubCountry": "DEN",
     "DateOfBirth": "1984-5-17",
@@ -2903,7 +2903,7 @@ module.exports = [
     "Team": "Costa Rica",
     "Number": "15",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "1. FSV Mainz 05",
     "ClubCountry": "GER",
     "DateOfBirth": "1983-9-12",
@@ -2963,7 +2963,7 @@ module.exports = [
     "Team": "Costa Rica",
     "Number": "21",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "FC Kuban Krasnodar",
     "ClubCountry": "RUS",
     "DateOfBirth": "1990-3-5",
@@ -2973,7 +2973,7 @@ module.exports = [
     "Team": "Costa Rica",
     "Number": "22",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "C.S. Herediano",
     "ClubCountry": "CRC",
     "DateOfBirth": "1987-2-14",
@@ -3473,7 +3473,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "3",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "AtlÃ©tico Madr",
     "ClubCountry": "ESP",
     "DateOfBirth": "1986-2-16",
@@ -3483,7 +3483,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Club Nacional de Football",
     "ClubCountry": "URU",
     "DateOfBirth": "1990-10-7",
@@ -3513,7 +3513,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "7",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "AtlÃ©tico Madr",
     "ClubCountry": "ESP",
     "DateOfBirth": "1985-09-30",
@@ -3523,7 +3523,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "8",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "U.S. CittÃ  di Palermo",
     "ClubCountry": "ITA",
     "DateOfBirth": "1990-8-8",
@@ -3533,7 +3533,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "9",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Liverpool F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1987-1-24",
@@ -3543,7 +3543,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "10",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Cerezo Osa",
     "ClubCountry": "JPN",
     "DateOfBirth": "1979-5-19",
@@ -3563,7 +3563,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "12",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Club Libertad",
     "ClubCountry": "PAR",
     "DateOfBirth": "1982-1-22",
@@ -3583,7 +3583,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "14",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Botafogo de Futebol e Regatas",
     "ClubCountry": "BRA",
     "DateOfBirth": "1989-3-21",
@@ -3593,7 +3593,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "15",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Bologna F.C. 1909",
     "ClubCountry": "ITA",
     "DateOfBirth": "1980-5-18",
@@ -3613,7 +3613,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "17",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Monarcas Morelia",
     "ClubCountry": "MEX",
     "DateOfBirth": "1982-1-1",
@@ -3623,7 +3623,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "18",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Southampton F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1990-12-2",
@@ -3633,7 +3633,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "19",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "AtlÃ©tico Madr",
     "ClubCountry": "ESP",
     "DateOfBirth": "1995-01-20",
@@ -3643,7 +3643,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "20",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "S.S. Lazio",
     "ClubCountry": "ITA",
     "DateOfBirth": "1984-10-29",
@@ -3663,7 +3663,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "22",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Juventus F.C.",
     "ClubCountry": "ITA",
     "DateOfBirth": "1987-4-7",
@@ -3673,7 +3673,7 @@ module.exports = [
     "Team": "Uruguay",
     "Number": "23",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "CR Vasco da Gama",
     "ClubCountry": "BRA",
     "DateOfBirth": "1983-3-25",
@@ -3683,7 +3683,7 @@ module.exports = [
     "Team": "Ecuador",
     "Number": "1",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Barcelona Sporting Club",
     "ClubCountry": "ECU",
     "DateOfBirth": "1985-12-16",
@@ -3753,7 +3753,7 @@ module.exports = [
     "Team": "Ecuador",
     "Number": "8",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Independiente Santa Fe",
     "ClubCountry": "COL",
     "DateOfBirth": "1979-3-15",
@@ -3773,7 +3773,7 @@ module.exports = [
     "Team": "Ecuador",
     "Number": "10",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "C.F. Pachuca",
     "ClubCountry": "MEX",
     "DateOfBirth": "1979-8-11",
@@ -3793,7 +3793,7 @@ module.exports = [
     "Team": "Ecuador",
     "Number": "12",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Club Deportivo El Nacional",
     "ClubCountry": "ECU",
     "DateOfBirth": "1988-9-8",
@@ -3843,7 +3843,7 @@ module.exports = [
     "Team": "Ecuador",
     "Number": "17",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Club Tijuana",
     "ClubCountry": "MEX",
     "DateOfBirth": "1988-2-21",
@@ -3853,7 +3853,7 @@ module.exports = [
     "Team": "Ecuador",
     "Number": "18",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Club Sport Emelec",
     "ClubCountry": "ECU",
     "DateOfBirth": "1982-12-10",
@@ -3873,7 +3873,7 @@ module.exports = [
     "Team": "Ecuador",
     "Number": "20",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Club Tijuana",
     "ClubCountry": "MEX",
     "DateOfBirth": "1990-2-15",
@@ -3893,7 +3893,7 @@ module.exports = [
     "Team": "Ecuador",
     "Number": "22",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "LDU Qui",
     "ClubCountry": "ECU",
     "DateOfBirth": "1987-6-5",
@@ -3943,7 +3943,7 @@ module.exports = [
     "Team": "France",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Real Madrid C.F.",
     "ClubCountry": "ESP",
     "DateOfBirth": "1993-4-25",
@@ -3973,7 +3973,7 @@ module.exports = [
     "Team": "France",
     "Number": "7",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Montpellier HSC",
     "ClubCountry": "FRA",
     "DateOfBirth": "1990-3-8",
@@ -4063,7 +4063,7 @@ module.exports = [
     "Team": "France",
     "Number": "16",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "AS Saint-Ã‰tienne",
     "ClubCountry": "FRA",
     "DateOfBirth": "",
@@ -4103,7 +4103,7 @@ module.exports = [
     "Team": "France",
     "Number": "20",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Newcastle United F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1987-1-2",
@@ -4123,7 +4123,7 @@ module.exports = [
     "Team": "France",
     "Number": "22",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Southampton F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1989-11-8",
@@ -4133,7 +4133,7 @@ module.exports = [
     "Team": "France",
     "Number": "23",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "SC Bastia",
     "ClubCountry": "FRA",
     "DateOfBirth": "1979-5-14",
@@ -4143,7 +4143,7 @@ module.exports = [
     "Team": "Honduras",
     "Number": "1",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Real C.D. EspaÃ±a",
     "ClubCountry": "HON",
     "DateOfBirth": "1993-9-13",
@@ -4153,7 +4153,7 @@ module.exports = [
     "Team": "Honduras",
     "Number": "2",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Qingdao Jonoon F.C.",
     "ClubCountry": "CHN",
     "DateOfBirth": "1984-7-29",
@@ -4183,7 +4183,7 @@ module.exports = [
     "Team": "Honduras",
     "Number": "5",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "San Jose Earthquak",
     "ClubCountry": "USA",
     "DateOfBirth": "1982-5-24",
@@ -4193,7 +4193,7 @@ module.exports = [
     "Team": "Honduras",
     "Number": "6",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Wigan Athletic F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1988-3-8",
@@ -4233,7 +4233,7 @@ module.exports = [
     "Team": "Honduras",
     "Number": "10",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Real C.D. EspaÃ±a",
     "ClubCountry": "HON",
     "DateOfBirth": "1989-7-30",
@@ -4273,7 +4273,7 @@ module.exports = [
     "Team": "Honduras",
     "Number": "14",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Houston Dyna",
     "ClubCountry": "USA",
     "DateOfBirth": "1984-9-4",
@@ -4293,7 +4293,7 @@ module.exports = [
     "Team": "Honduras",
     "Number": "16",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "C.D. Real Sociedad",
     "ClubCountry": "HON",
     "DateOfBirth": "1988-10-16",
@@ -4303,7 +4303,7 @@ module.exports = [
     "Team": "Honduras",
     "Number": "17",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Chivas U",
     "ClubCountry": "USA",
     "DateOfBirth": "1983-11-3",
@@ -4443,7 +4443,7 @@ module.exports = [
     "Team": "Switzerland",
     "Number": "8",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "S.S.C. Napoli",
     "ClubCountry": "ITA",
     "DateOfBirth": "1984-6-27",
@@ -4453,7 +4453,7 @@ module.exports = [
     "Team": "Switzerland",
     "Number": "9",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Real Socied",
     "ClubCountry": "ESP",
     "DateOfBirth": "1992-2-22",
@@ -4493,7 +4493,7 @@ module.exports = [
     "Team": "Switzerland",
     "Number": "13",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "VfL Wolfsbu",
     "ClubCountry": "GER",
     "DateOfBirth": "1992-8-25",
@@ -4513,7 +4513,7 @@ module.exports = [
     "Team": "Switzerland",
     "Number": "15",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "S.S.C. Napoli",
     "ClubCountry": "ITA",
     "DateOfBirth": "1986-4-12",
@@ -4533,7 +4533,7 @@ module.exports = [
     "Team": "Switzerland",
     "Number": "17",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "FC ZÃ¼rich",
     "ClubCountry": "SUI",
     "DateOfBirth": "1989-11-24",
@@ -4553,7 +4553,7 @@ module.exports = [
     "Team": "Switzerland",
     "Number": "19",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "1. FC NÃ¼rnbe",
     "ClubCountry": "GER",
     "DateOfBirth": "1992-8-8",
@@ -4573,7 +4573,7 @@ module.exports = [
     "Team": "Switzerland",
     "Number": "21",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Grasshopper Club ZÃ¼rich",
     "ClubCountry": "SUI",
     "DateOfBirth": "1990-11-14",
@@ -4583,7 +4583,7 @@ module.exports = [
     "Team": "Switzerland",
     "Number": "22",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FC Basel",
     "ClubCountry": "SUI",
     "DateOfBirth": "1991-12-20",
@@ -4663,7 +4663,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "7",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Real Madrid C.F.",
     "ClubCountry": "ESP",
     "DateOfBirth": "1988-2-14",
@@ -4673,7 +4673,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "8",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "S.L. Benfica",
     "ClubCountry": "POR",
     "DateOfBirth": "1986-2-22",
@@ -4683,7 +4683,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "9",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "S.S.C. Napoli",
     "ClubCountry": "ITA",
     "DateOfBirth": "1987-12-10",
@@ -4703,7 +4703,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "11",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Newell's Old Bo",
     "ClubCountry": "ARG",
     "DateOfBirth": "1981-1-2",
@@ -4713,7 +4713,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "12",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Boca Junio",
     "ClubCountry": "ARG",
     "DateOfBirth": "1981-7-26",
@@ -4723,7 +4723,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "13",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Celta de Vigo",
     "ClubCountry": "ESP",
     "DateOfBirth": "1986-4-10",
@@ -4743,7 +4743,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "15",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Manchester City F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1980-12-20",
@@ -4763,7 +4763,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "17",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "S.S.C. Napoli",
     "ClubCountry": "ITA",
     "DateOfBirth": "1989-2-21",
@@ -4793,7 +4793,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "20",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Manchester City F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1988-6-2",
@@ -4823,7 +4823,7 @@ module.exports = [
     "Team": "Argentina",
     "Number": "23",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "C.F. Monterrey",
     "ClubCountry": "MEX",
     "DateOfBirth": "1984-4-3",
@@ -4833,7 +4833,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "1",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Stoke City F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1987-6-20",
@@ -4843,7 +4843,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "2",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "HNK Hajduk Split",
     "ClubCountry": "CRO",
     "DateOfBirth": "1986-3-6",
@@ -4853,7 +4853,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "3",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Eintracht Braunschwe",
     "ClubCountry": "GER",
     "DateOfBirth": "1990-1-24",
@@ -4863,7 +4863,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Bayer 04 Leverkusen",
     "ClubCountry": "GER",
     "DateOfBirth": "1980-8-18",
@@ -4873,7 +4873,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "5",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FC Schalke 04",
     "ClubCountry": "GER",
     "DateOfBirth": "1993-6-20",
@@ -4883,7 +4883,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "6",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "ElazÄ±ÄŸsp",
     "ClubCountry": "TUR",
     "DateOfBirth": "1989-10-24",
@@ -4893,7 +4893,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "7",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FerencvÃ¡rosi TC",
     "ClubCountry": "HUN",
     "DateOfBirth": "1992-9-10",
@@ -4903,7 +4903,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "8",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "A.S. Roma",
     "ClubCountry": "ITA",
     "DateOfBirth": "1990-4-2",
@@ -4913,7 +4913,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "9",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "VfB Stuttga",
     "ClubCountry": "GER",
     "DateOfBirth": "1984-8-6",
@@ -4923,7 +4923,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "10",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Guizhou Renhe F.C.",
     "ClubCountry": "CHN",
     "DateOfBirth": "1982-6-5",
@@ -4933,7 +4933,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "11",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Manchester City F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1986-3-17",
@@ -4943,7 +4943,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "12",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "VfR Aal",
     "ClubCountry": "GER",
     "DateOfBirth": "1986-5-15",
@@ -4953,7 +4953,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "13",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "SC Freibu",
     "ClubCountry": "GER",
     "DateOfBirth": "1984-3-28",
@@ -4963,7 +4963,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "14",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Galatasaray S.K.",
     "ClubCountry": "TUR",
     "DateOfBirth": "1991-8-4",
@@ -4973,7 +4973,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "15",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FC Zorya Luhansk",
     "ClubCountry": "UKR",
     "DateOfBirth": "1988-12-15",
@@ -4983,7 +4983,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "16",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "S.S. Lazio",
     "ClubCountry": "ITA",
     "DateOfBirth": "1986-1-18",
@@ -4993,7 +4993,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "17",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Kayseri Erciyessp",
     "ClubCountry": "TUR",
     "DateOfBirth": "1985-9-26",
@@ -5013,7 +5013,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "19",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "Ä°stanbul BÃ¼yÃ¼kÅŸehir Belediyespor (football)",
     "ClubCountry": "TUR",
     "DateOfBirth": "1990-2-17",
@@ -5023,7 +5023,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "20",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "SK Sturm Graz",
     "ClubCountry": "AUT",
     "DateOfBirth": "1989-8-16",
@@ -5033,7 +5033,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "21",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "HNK Hajduk Split",
     "ClubCountry": "CRO",
     "DateOfBirth": "1992-2-13",
@@ -5043,7 +5043,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "22",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "FK Borac Banja Luka",
     "ClubCountry": "BIH",
     "DateOfBirth": "1981-5-13",
@@ -5053,7 +5053,7 @@ module.exports = [
     "Team": "Bosnia and Herzegovina",
     "Number": "23",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "TSG 1899 Hoffenheim",
     "ClubCountry": "GER",
     "DateOfBirth": "1984-10-8",
@@ -5313,7 +5313,7 @@ module.exports = [
     "Team": "Nigeria",
     "Number": "3",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "AS Monaco FC",
     "ClubCountry": "FRA",
     "DateOfBirth": "",
@@ -5553,7 +5553,7 @@ module.exports = [
     "Team": "Germany",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FC Schalke 04",
     "ClubCountry": "GER",
     "DateOfBirth": "1988-2-29",
@@ -5593,7 +5593,7 @@ module.exports = [
     "Team": "Germany",
     "Number": "8",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Arsenal F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1988-10-15",
@@ -5603,7 +5603,7 @@ module.exports = [
     "Team": "Germany",
     "Number": "9",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Chelsea F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1990-11-6",
@@ -5643,7 +5643,7 @@ module.exports = [
     "Team": "Germany",
     "Number": "13",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Bayern Munich",
     "ClubCountry": "GER",
     "DateOfBirth": "1989-9-13",
@@ -5703,7 +5703,7 @@ module.exports = [
     "Team": "Germany",
     "Number": "19",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "FC Bayern Munich",
     "ClubCountry": "GER",
     "DateOfBirth": "1992-6-3",
@@ -5713,7 +5713,7 @@ module.exports = [
     "Team": "Germany",
     "Number": "20",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FC Bayern Munich",
     "ClubCountry": "GER",
     "DateOfBirth": "1988-9-3",
@@ -5843,7 +5843,7 @@ module.exports = [
     "Team": "Ghana",
     "Number": "10",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Olympique de Marseille",
     "ClubCountry": "FRA",
     "DateOfBirth": "1989-12-17",
@@ -6023,7 +6023,7 @@ module.exports = [
     "Team": "Portugal",
     "Number": "5",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Real Madrid C.F.",
     "ClubCountry": "ESP",
     "DateOfBirth": "1988-3-11",
@@ -6053,7 +6053,7 @@ module.exports = [
     "Team": "Portugal",
     "Number": "8",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "AS Monaco FC",
     "ClubCountry": "FRA",
     "DateOfBirth": "1986-9-8",
@@ -6083,7 +6083,7 @@ module.exports = [
     "Team": "Portugal",
     "Number": "11",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "S.C. Braga",
     "ClubCountry": "POR",
     "DateOfBirth": "1987-12-22",
@@ -6093,7 +6093,7 @@ module.exports = [
     "Team": "Portugal",
     "Number": "12",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "Sporting Clube de Portugal",
     "ClubCountry": "POR",
     "DateOfBirth": "1988-2-15",
@@ -6113,7 +6113,7 @@ module.exports = [
     "Team": "Portugal",
     "Number": "14",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "FC Zenit Saint Petersburg",
     "ClubCountry": "RUS",
     "DateOfBirth": "1988-5-26",
@@ -6163,7 +6163,7 @@ module.exports = [
     "Team": "Portugal",
     "Number": "19",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "S.L. Benfica",
     "ClubCountry": "POR",
     "DateOfBirth": "1990-9-10",
@@ -6183,7 +6183,7 @@ module.exports = [
     "Team": "Portugal",
     "Number": "21",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Valencia CF",
     "ClubCountry": "ESP",
     "DateOfBirth": "1984-2-25",
@@ -6203,7 +6203,7 @@ module.exports = [
     "Team": "Portugal",
     "Number": "23",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "S.S. Lazio",
     "ClubCountry": "ITA",
     "DateOfBirth": "1982-8-2",
@@ -6293,7 +6293,7 @@ module.exports = [
     "Team": "United States",
     "Number": "9",
     "Position": "FW",
-
+    "FullName": "",
     "Club": "AZ Alkmaar",
     "ClubCountry": "NED",
     "DateOfBirth": "1990-11-10",
@@ -6443,7 +6443,7 @@ module.exports = [
     "Team": "Algeria",
     "Number": "1",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "CS Constanti",
     "ClubCountry": "ALG",
     "DateOfBirth": "1985-1-9",
@@ -6473,7 +6473,7 @@ module.exports = [
     "Team": "Algeria",
     "Number": "4",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Watford F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1989-1-1",
@@ -6603,7 +6603,7 @@ module.exports = [
     "Team": "Algeria",
     "Number": "17",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "RCD Mallorca",
     "ClubCountry": "ESP",
     "DateOfBirth": "1988-3-5",
@@ -6623,7 +6623,7 @@ module.exports = [
     "Team": "Algeria",
     "Number": "19",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Inter Milan",
     "ClubCountry": "ITA",
     "DateOfBirth": "1992-02-29",
@@ -6633,7 +6633,7 @@ module.exports = [
     "Team": "Algeria",
     "Number": "20",
     "Position": "DF",
-
+    "FullName": "",
     "Club": "Stade de Reims",
     "ClubCountry": "FRA",
     "DateOfBirth": "1991-10-22",
@@ -6663,7 +6663,7 @@ module.exports = [
     "Team": "Algeria",
     "Number": "23",
     "Position": "GK",
-
+    "FullName": "",
     "Club": "PFC CSKA Sofia",
     "ClubCountry": "BUL",
     "DateOfBirth": "1986-4-25",
@@ -6853,7 +6853,7 @@ module.exports = [
     "Team": "Belgium",
     "Number": "19",
     "Position": "MF",
-
+    "FullName": "",
     "Club": "Tottenham Hotspur F.C.",
     "ClubCountry": "ENG",
     "DateOfBirth": "1987-7-16",
