@@ -31,7 +31,6 @@ const handlePublic = (res, url) => {
 	const filePath = path.join(__dirname, '..', url);
 	fs.readFile(filePath, (error, file) => {
 		if (error) {
-			console.log(error);
 			res.writeHead(500, 'Content-Type: text/html');
 			res.end('<h1>Sorry something went wrong</h1>');
 		} else {
@@ -57,7 +56,6 @@ const handleSearch = (req, res) => {
 	filteredPlayers.forEach((filteredPlayer) => {
 		newArray.push(filteredPlayer.FullName);
 	});
-	console.log(newArray);
 
 	res.end(JSON.stringify(newArray));
 }
