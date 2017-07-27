@@ -8,7 +8,7 @@ const router = (req, res) => {
 
 	} else if(url.indexOf('/public') === 0) {
 			handlers.handlePublic(res, url);
-	}		
+	}
 	// 	else if (url === '/worldCup2014'){
 	// 		handlers.handleJson(req, res);
 	// }

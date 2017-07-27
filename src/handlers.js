@@ -25,7 +25,7 @@ const handlePublic = (res, url) => {
 		css: 'text/css',
 		js: 'application/javascript',
 		ico: 'image/x-icon',
-		img: 'image/jpg'
+		img: 'image/png'
 	}
 
 	const filePath = path.join(__dirname, '..', url);
